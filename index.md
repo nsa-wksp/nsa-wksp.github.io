@@ -46,7 +46,7 @@ organizers:
 
   - name: Daiki Kimura
     url: https://researcher.watson.ibm.com/researcher/view.php?person=jp-DAIKI
-    affiliation: IBM Research - Tokyo <br> <i>*primary contact</i>
+    affiliation: IBM Research - Tokyo <br> <i>(primary contact)</i>
     image: assets/img/Daiki_Kimura.jpg
 
   - name: Ndivhuwo Makondo
