@@ -108,9 +108,9 @@ In this workshop, we will cover following challenges in decision making and RL:
 - **Neuro-Symbolic Model-based Reinforcement Learning**
 - **Decision Making by Planning with Neuro-Symbolic Approaches**
 
-# Call for Paper (tentative)
-
 {: #cfp }
+
+# Call for Paper (tentative)
 
 We welcome original research papers ranging between **4-8 pages** in length (not including references or supplementary materials) which is formatted according to the IJCAI guidelines [link](https://www.ijcai.org/authors_kit).
 
@@ -127,9 +127,9 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 TBA
 
-# Invited Talks
-
 {: #invited }
+
+# Invited Talks
 
 <div class="row justify-content-center">
   {% for p in page.speakers %}
@@ -151,9 +151,9 @@ TBA
 
 <div class="text-center"> * in alphabetical order</div>
 
-# Organizers
-
 {: #organizers }
+
+# Organizers
 
 <div class="row justify-content-center">
   {% for p in page.organizers %}
@@ -175,9 +175,9 @@ TBA
 
 <div class="text-center"> * in alphabetical order</div>
 
-# Program Committee (tentative)
-
 {: #pc }
+
+# Program Committee (tentative)
 
 {% for p in page.pcs %}
 
