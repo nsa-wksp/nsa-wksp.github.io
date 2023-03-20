@@ -103,6 +103,7 @@ In this workshop, we will cover following challenges in decision making and RL:
 
 - **Neuro-Symbolic Agents**
 - **Neuro-Symbolic Reinforcement Learning**
+- **Neuro-Symbolic Chat Bot**
 - **Safe Reinforcement Learning by Neuro-Symbolic Approach**
 - **Explainability through Neuro-Symbolic Reinforcement Learning**
 - **Neuro-Symbolic Model-based Reinforcement Learning**
@@ -125,11 +126,14 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 # Important Dates
 
-TBA
+- Submission deadline: April 26th, 2023 (11:59 pm AOE)
+- Acceptance notification: June 1st, 2023
+- Camera ready for accepted submissions: TBA (around June 15th, 2023)
+- Workshop date: TBA
 
 {: #invited }
 
-# Invited Talks
+# Invited Talks (tentative)
 
 <div class="row justify-content-center">
   {% for p in page.speakers %}
