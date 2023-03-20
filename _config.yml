@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "NSA: Neuro-Symbolic Agents workshop"
-subtitle: "at IJCAI 2023"
+title: "NSA: Neuro-Symbolic Agents Workshop at IJCAI 2023"
+subtitle: "Macao, S.A.R"
 email: daiki@jp.ibm.com
 description: >-
   Combining ML and symbolic AI for reinforcement learning

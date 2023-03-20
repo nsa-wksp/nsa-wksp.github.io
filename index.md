@@ -124,12 +124,19 @@ All accepted papers and extended abstracts will be presented as posters.
 The program committee will select a few papers for oral presentation.
 There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
 
+{: #dates }
+
 # Important Dates
 
 - Submission deadline: April 26th, 2023 (11:59 pm AOE)
 - Acceptance notification: June 1st, 2023
 - Camera ready for accepted submissions: TBA (around June 15th, 2023)
 - Workshop date: TBA
+
+{: #schedule }
+# Schedule
+
+- TBA
 
 {: #invited }
 
