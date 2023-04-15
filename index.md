@@ -111,9 +111,11 @@ In this workshop, we will cover following challenges in decision making and RL:
 
 {: #cfp }
 
-# Call for Paper (tentative)
+# Call for Paper
 
-We welcome original research papers ranging between **4-8 pages** in length (not including references or supplementary materials) which is formatted according to the IJCAI guidelines [link](https://www.ijcai.org/authors_kit).
+We welcome original research papers ranging between **4-8 pages** in length (not including references or supplementary materials) which is formatted according to the IJCAI guidelines [link](https://www.ijcai.org/authors_kit). Reviews are **double blind**, so no identifying information should be on the papers.
+
+Please submit your paper at here: [Microsoft CMT site](https://cmt3.research.microsoft.com/NSAIJCAI2023/Submission/Index)
 
 We also welcome extended abstracts of up to **2 pages** (not including references) that describe open problems and challenges in the area of Neuro-Symbolic Agent.
 
@@ -121,8 +123,15 @@ The papers will be non-archival, which means we welcome papers that have been pu
 
 All accepted papers and extended abstracts will be presented as posters.
 
-The program committee will select a few papers for oral presentation.
-There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
+The program committee will select some papers for oral presentation.
+There will be a poster session during the scheduled coffee breaks to facilitate discussions among attendees.
+
+**Summary:**
+
+- **Length: 4-8 pages (research paper), or 2 pages (extended abstract)**
+- **Double blind**
+- **Three types of decisions: Accept (oral & poster), Accept (poster), Reject**
+- **Submission site: [Microsoft CMT site](https://cmt3.research.microsoft.com/NSAIJCAI2023/Submission/Index)**
 
 {: #dates }
 
@@ -134,6 +143,7 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 - Workshop date: TBA
 
 {: #schedule }
+
 # Schedule
 
 - TBA
