@@ -130,17 +130,17 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 - **Length: 4-8 pages (research paper), or 2 pages (extended abstract)**
 - **Double blind**
-- **Three types of decisions: Accept (oral & poster), Accept (poster), Reject**
+- **Two types of accept: Accept (oral & poster), Accept (poster)**
 - **Submission site: [Microsoft CMT site](https://cmt3.research.microsoft.com/NSAIJCAI2023/Submission/Index)**
 
 {: #dates }
 
 # Important Dates
 
-- Submission deadline: April 26th, 2023 (11:59 pm AOE)
-- Acceptance notification: June 1st, 2023
+- Submission deadline: __May 10th, 2023 (11:59 pm AOE)__ _[extended]_
+- Acceptance notification: __June 1st, 2023__
 - Camera ready for accepted submissions: TBA (around June 15th, 2023)
-- Workshop date: TBA
+- Workshop date: __Auguest 20th, 2023__
 
 {: #schedule }
 
