@@ -137,8 +137,8 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 # Important Dates
 
-- Submission deadline: __May 10th, 2023 (11:59 pm AOE)__ _[extended]_
-- Acceptance notification: __June 1st, 2023__
+- Submission deadline: __May 25th, 2023 (11:59 pm AOE)__ _[extended, FINAL EXTENSION]_
+- Acceptance notification: __June 5th, 2023__ _[extended]_
 - Camera ready for accepted submissions: TBA (around June 15th, 2023)
 - Workshop date: __Auguest 20th, 2023__
 
