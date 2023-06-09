@@ -8,35 +8,20 @@ speakers:
     affiliation: IBM Thomas J. Watson Research Center
     image: assets/img/Alexander_Gray.jpg
 
-  - name: Benjamin Rosman
-    url: https://www.benjaminrosman.com/
-    affiliation: University of the Witwatersrand
-    image: assets/img/Benjamin_Rosman.jpg
+  - name: Jeff Z. Pan
+    url: http://knowledge-representation.org/j.z.pan/
+    affiliation: The University of Edinburgh <br> <i>(invited)</i>
+    image: assets/img/Jeff_Z_Pan.jpg
 
-  - name: Céline Hocquette
-    url: https://cs.brown.edu/people/gdk/
-    affiliation: University of Oxford
-    image: assets/img/Celine_Hocquette.jpg
+  - name: Luc De Raedt
+    url: https://wms.cs.kuleuven.be/people/lucderaedt
+    affiliation: KU Leuven
+    image: assets/img/Luc_De_Raedt.jpg
 
-  - name: George Konidaris
-    url: https://cs.brown.edu/people/gdk/
-    affiliation: Brown University
-    image: assets/img/George_Konidaris.jpg
-
-  - name: Lise Getoor
-    url: https://getoor.linqs.org/
-    affiliation: UC, Santa Cruz <br> <i>(invited)</i>
-    image: assets/img/Lise_Getoor.jpg
-
-  - name: Sheila McIlraith
-    url: https://www.cs.toronto.edu/~sheila/
-    affiliation: University of Toronto
-    image: assets/img/Sheila_McIlraith.jpg
-
-  - name: Swarat Chaudhuri
-    url: https://www.cs.utexas.edu/~swarat/
-    affiliation: University of Texas
-    image: assets/img/Swarat_Chaudhuri.png
+  - name: Wang-Zhou Dai
+    url: https://daiwz.net/
+    affiliation: Nanjing University
+    image: assets/img/WangZhou_Dai.jpg
 
 organizers:
   - name: Alessandra Russo
@@ -60,23 +45,17 @@ organizers:
     image: assets/img/Steven_James.jpg
 
 pcs:
-  - name: Asim Munawar
-    affiliation: IBM Thomas J. Watson Research Center
-
-  - name: Don Joven Ravoy Agravante
-    affiliation: IBM Research - Tokyo
+  - name: Divanisha Patel
+    affiliation: University of the Witwatersrand
 
   - name: Geraud Nangue Tasse
-    affiliation: Univ. of the Witwatersrand
+    affiliation: University of the Witwatersrand
 
   - name: Jiayuan Mao
     affiliation: Massachusetts Institute of Technology
 
   - name: Kyle Harper Erwin
     affiliation: IBM Research - Africa
-
-  - name: Michiaki Tatsubori
-    affiliation: IBM Research - Tokyo
 
   - name: Minori Narita
     affiliation: University of Toronto
@@ -87,8 +66,8 @@ pcs:
   - name: Sarathkrishna Swaminathan
     affiliation: IBM Research - Almaden
 
-  - name: Subhajit Chaudhury
-    affiliation: IBM Thomas J. Watson Research Center
+  - name: Tristan Bester
+    affiliation: University of the Witwatersrand
 ---
 
 # Workshop Description
@@ -137,16 +116,27 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 # Important Dates
 
-- Submission deadline: __May 25th, 2023 (11:59 pm AOE)__ _[extended, FINAL EXTENSION]_
-- Acceptance notification: __June 5th, 2023__ _[extended]_
-- Camera ready for accepted submissions: TBA (around June 15th, 2023)
-- Workshop date: __Auguest 20th, 2023__
+- Submission deadline: **May 25th, 2023 (11:59 pm AOE)**
+- Acceptance notification: **June 5th, 2023**
+- Camera ready for accepted submissions: **June 20th, 2023 (11:59 pm AOE)**
+- Workshop date: **Auguest 20th, 2023**
 
 {: #schedule }
 
-# Schedule
+# Schedule (tentative)
 
-- TBA
+| Time  | Agenda                          | Speaker   |
+| ----- | ------------------------------- | --------- |
+| 8:50  | Opening                         | Organizer |
+| 9:00  | Invited Talk                    | TBA       |
+| 10:00 | Contributed talk (2 x 30 mins)  | TBA       |
+| 11:00 | Invited Talk                    | TBA       |
+| 12:00 | Lunch                           | -         |
+| 13:00 | Contributed talk (2 x 30 mins)  | TBA       |
+| 14:00 | Invited Talk                    | TBA       |
+| 15:00 | Contributed talk (2 x 30 mins)  | TBA       |
+| 16:00 | Poster (All contributed papers) | -         |
+| 17:00 | Closing                         | Organizer |
 
 {: #invited }
 
@@ -198,7 +188,7 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 {: #pc }
 
-# Program Committee (tentative)
+# Program Committee
 
 {% for p in page.pcs %}
 
