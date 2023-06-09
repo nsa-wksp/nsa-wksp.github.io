@@ -119,7 +119,7 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 - Submission deadline: **May 25th, 2023 (11:59 pm AOE)**
 - Acceptance notification: **June 5th, 2023**
 - Camera ready for accepted submissions: **June 20th, 2023 (11:59 pm AOE)**
-- Workshop date: **Auguest 20th, 2023**
+- Workshop date: **August 20th, 2023**
 
 {: #schedule }
 
