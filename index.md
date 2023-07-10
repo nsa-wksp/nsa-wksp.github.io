@@ -8,11 +8,6 @@ speakers:
     affiliation: IBM Thomas J. Watson Research Center
     image: assets/img/Alexander_Gray.jpg
 
-  - name: Jeff Z. Pan
-    url: http://knowledge-representation.org/j.z.pan/
-    affiliation: The University of Edinburgh <br> <i>(invited)</i>
-    image: assets/img/Jeff_Z_Pan.jpg
-
   - name: Luc De Raedt
     url: https://wms.cs.kuleuven.be/people/lucderaedt
     affiliation: KU Leuven
