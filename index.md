@@ -114,28 +114,49 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 - Submission deadline: **May 25th, 2023 (11:59 pm AOE)**
 - Acceptance notification: **June 5th, 2023**
 - Camera ready for accepted submissions: **June 20th, 2023 (11:59 pm AOE)**
-- Workshop date: **August 20th, 2023**
+- Workshop date: **August 20th, 2023: Workshop W26 @ Almaty 6006**
+
+{: #papers }
+
+# Accepted papers
+
+#### Oral and Poster
+
+- Minori Narita, and Daiki Kimura, "Introducing Trial-and-Error Exploration to Avoid Critical Failure for Efficient Reinforcement Learning"
+- Jaeil Park, and Sung-Bae Cho, "[A Neuro-Symbolic Approach with Reinforcement Learning for Explainable Question Answering in Pedestrian Anomaly Video Sequence](assets/papers/A Neuro-Symbolic Approach with Reinforcement Learning for Explainable Question Answering in Pedestrian Anomaly Video Sequence.pdf)"
+- Daiki Kimura, Stefan Zecevic, Subhajit Chaudhury, Sarathkrishna Swaminathan, Don Joven Agravante, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "Explainable Neuro-Symbolic Reinforcement Learning"
+- Naman Shah, and Siddharth Srivastava, "Learning Neuro-Symbolic Abstractions for Motion Planning Under Uncertainty"
+- Don Joven Agravante, Daiki Kimura, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "[Neuro-Symbolic Model-based RL with Logical Neural Network](assets/papers/Neuro-Symbolic Model-based RL with Logical Neural Network.pdf)"
+- Leonid A Ugadiarov, and Aleksandr Panov, "[Object-Oriented Decomposition of World Model in Reinforcement Learning](assets/papers/Object-Oriented Decomposition of World Model in Reinforcement Learning.pdf)"
+
+#### Poster
+
+- Guy Azran, Mohamad H Danesh, Stefano V Albrecht, and Sarah Keren, "[Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning](assets/papers/Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning.pdf)"
+- Zahra Chaghazardi, Saber Fallah, and Alireza Nezhad-Tamaddoni, "Explainable and Trustworthy Traffic Sign Detection for Safe Autonomous Driving: A Neuro-Symbolic approach"
+- Giacomo Frisoni, Paolo Italiani, Stefano Salvatori, and Gianluca Moro, "Cogito Ergo Summ: Abstractive Summarization of Biomedical Papers via Semantic Parsing Graphs and Consistency Rewards"
+- Chitra K Subramanian, Sarathkrishna Swaminathan, Miao Liu, Mauricio Longinos, Aporva Amarnath, Karthik Swaminathan, Martin Cochet, Kevin Roman, and Pradip Bose, "[A Neuro-Symbolic Approach to Runtime Optimization in Resource Constrained Heterogeneous Systems](assets/papers/A Neuro-Symbolic Approach to Runtime Optimization in Resource Constrained Heterogeneous Systems.pdf)"
+- Daniil Kirilenko, Vitaliy Vorobyov, Alexey K Kovalev, and Aleksandr Panov, "[COMPAS: Compose Actions and Slots in Object-Centric World Models](assets/papers/COMPAS Compose Actions and Slots in Object-Centric World Models.pdf)"
 
 {: #schedule }
 
-# Schedule (tentative)
+# Schedule
 
-| Time  | Agenda                          | Speaker   |
-| ----- | ------------------------------- | --------- |
-| 8:50  | Opening                         | Organizer |
-| 9:00  | Invited Talk                    | TBA       |
-| 10:00 | Contributed talk (2 x 30 mins)  | TBA       |
-| 11:00 | Invited Talk                    | TBA       |
-| 12:00 | Lunch                           | -         |
-| 13:00 | Contributed talk (2 x 30 mins)  | TBA       |
-| 14:00 | Invited Talk                    | TBA       |
-| 15:00 | Contributed talk (2 x 30 mins)  | TBA       |
-| 16:00 | Poster (All contributed papers) | -         |
-| 17:00 | Closing                         | Organizer |
+| Time  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Contents                                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 8:50  | Opening                                                                                                |                                                                                                                                                                                                  |
+| 9:00  | Invited talk                                                                                           | Alexander Gray, "TBA"                                                                                                                                                                            |
+| 10:00 | Contributed talk <br> (2 x 30 mins)                                                                    | - Object-Oriented Decomposition of World Model in Reinforcement Learning <br> - Explainable Neuro-Symbolic Reinforcement Learning                                                                |
+| 11:00 | Invited talk                                                                                           | Luc De Raedt, "TBA"                                                                                                                                                                              |
+| 12:00 | Lunch                                                                                                  |                                                                                                                                                                                                  |
+| 13:00 | Contributed talk <br> (2 x 30 mins)                                                                    | - Introducing Trial-and-Error Exploration to Avoid Critical Failure for Efficient Reinforcement Learning <br> - Learning Neuro-Symbolic Abstraction for Motion Planning Under Uncertainty        |
+| 14:00 | Invited talk                                                                                           | Wang-Zhou Dai, "TBA"                                                                                                                                                                             |
+| 15:00 | Contributed talk <br> (2 x 30 mins)                                                                    | - Neuro-Symbolic Model-based RL with Logical Neural Network <br> - A Neuro-Symbolic Approach with Reinforcement Learning for Explainable Question Answering in Pedestrian Anomaly Video Sequence |
+| 16:00 | Poster                                                                                                 | All contributed papers                                                                                                                                                                           |
+| 17:00 | Closing                                                                                                |                                                                                                                                                                                                  |
 
 {: #invited }
 
-# Invited Talks (tentative)
+# Invited Talks
 
 <div class="row justify-content-center">
   {% for p in page.speakers %}
@@ -181,7 +202,7 @@ There will be a poster session during the scheduled coffee breaks to facilitate 
 
 <div class="text-center"> * in alphabetical order</div>
 
-{: #pc }
+{: #pcs }
 
 # Program Committee
 
